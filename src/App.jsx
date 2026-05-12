@@ -391,7 +391,7 @@ export default function AbdulrazaqPortfolio() {
         </section>
 
         <section className="bg-slate-950 py-20 text-white">
-          <div className="mx-auto grid max-w-7xl gap-12 px-6 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
+          <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.25em] text-slate-400">Expertise</p>
               <h2 className="mt-3 text-3xl font-bold tracking-tight sm:text-4xl">Technical interests and focus areas</h2>

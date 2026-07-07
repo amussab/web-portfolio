@@ -133,7 +133,7 @@ const timeline = [
     title: "Bachelor of Science in Computer Science",
     org: "King Fahd University of Petroleum and Minerals",
     meta: "2022 – 2026",
-    body: "GPA: 3.61/4. Relevant coursework includes Web Engineering and Design, Artificial Intelligence, Data Structures and Algorithms, Databases, Data Science, Information Security, and Research Work.",
+    body: "GPA: 3.63/4. Relevant coursework includes Web Engineering and Design, Artificial Intelligence, Data Structures and Algorithms, Data Science, Cloud App Engineering, and Research Work.",
     icon: GraduationCap,
   },
   {

@@ -75,15 +75,12 @@ const fadeUp = {
 
 const skills = [
   "Full-Stack Web Development",
+  "Cloud-Native App Development",
+  "DevOps",
+  "Cloud Architecture",
   "Artificial Intelligence",
-  "Cloud App Development",
-  "Penetration Testing",
-  "Ethical Hacking",
-  "Cryptography",
-  "Data Structures & Algorithms",
-  "Databases",
   "Data Science",
-  "Information Security",
+  "Machine Learning",
 ];
 
 const highlights = [

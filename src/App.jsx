@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 const GITHUB_URL = "https://github.com/amussab";
-const CV_URL = "/Abdulrazaq_CV.pdf";
+const CV_URL = "/Abdulrazaq_CV_A.pdf";
 
 const Card = ({ children, className = "" }) => (
   <div className={`border rounded-2xl shadow-sm ${className}`}>
